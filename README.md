@@ -42,6 +42,7 @@ chmod +x scripts/sync-pull.sh
 |-------|------|
 | `claude-code-docs` | Документація Claude Code |
 | `termux-docs` | Документація Termux |
+| `git-agent` | Git операції: commits, branches, push/pull, PR |
 
 ### Commands
 | Назва | Опис |
