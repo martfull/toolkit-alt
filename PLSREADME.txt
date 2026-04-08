@@ -107,6 +107,10 @@ Skills:
 Agents:
   claude-code-docs                    Документація по Claude Code CLI
   termux-docs                         Документація Termux
+  git-agent                           Git операції: commits, branches, push/pull, PR
+
+  Встановити git-agent на новому пристрої:
+    bash <(curl -s https://raw.githubusercontent.com/martfull/toolkit-alt/main/scripts/install.sh) agent git-agent
 
 Commands:
   img          /img                   Команда для роботи із зображеннями
